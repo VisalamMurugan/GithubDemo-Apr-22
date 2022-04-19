@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 74C9-19DF
+
+ Directory of C:\Users\124454\Githubdemo\Sample2
+
+04/19/2022  10:00 PM    <DIR>          .
+04/19/2022  10:00 PM    <DIR>          ..
+04/19/2022  10:00 PM                 0 test2.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  436,461,830,144 bytes free
