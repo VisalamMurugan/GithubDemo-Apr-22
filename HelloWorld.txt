@@ -1,7 +1,7 @@
 public int HelloWorld {
   public int void main(String[] args) {
     //print the data
-    int a;
+    int a,c;
     int b;
    System.out.println("Hello Java....!");
 }
