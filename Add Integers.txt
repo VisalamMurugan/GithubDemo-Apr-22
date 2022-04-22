@@ -2,14 +2,22 @@ class Main {
 
   public static void main(String[] args) {
     
+
     System.out.println("Enter 2 numbers");
-    int first = 20;
-    int second = 30;
     
-    //System.out.println(first + " " + second);
+   
+    int one = 60;
+    int two = 30;
+    
+    System.out.println(one + " " + two);
+
 
     // add two numbers
-    int sum = first + second;
+    int sum = one + two;
     System.out.println("The sum is: " + sum);
+
     System.out.println("The sum is done");
+
+    System.out.println("The sum is completed:");
+
   }
